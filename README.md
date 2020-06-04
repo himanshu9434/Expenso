@@ -1,5 +1,6 @@
 This project was made with the help of Create React APP
 
+To initialise backend create a environment variable file and upload you moongodb database details
 
 ## Available Scripts
 
